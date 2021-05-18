@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2> Hi there <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="50"> </h2>
+
+
+
+
 
 <!--
 **Bharath1910/Bharath1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
