@@ -1,24 +1,52 @@
+
 <h1> Hi, I am A.V.Bharath Shanmugam <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="40"> </h1>
-<img align="right" src="https://i.imgur.com/nxMs7Bb.png" width="230">
 
-**Studying at** [KV CRPF](https://avadicrpf.kvs.ac.in/ "KV CRPF")
+<img align="right" src="https://i.imgur.com/fctUQ5N.png" width="230"> </br>
 
-**Contact me -**
-</br>
+**Currently Exploring** - 
+Machine Learning with scikit-learn
+
+**Explorer of -**
 
 <a href="https://telegram.me/pythonnotfound"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </br>
-<a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://twitter.com/Bharath66373344"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> </br>
+<a href="https://stackoverflow.com/users/14859135/bharath"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://www.reddit.com/user/bharath1910"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ```py
 Bharath = {
     Pronouns: "He" | "him",
-    Skills: ['Python','Javascript','HTML','Bash'],
-    IDE: "VS Code",
-    }
-```
-<!--<a href="https://telegram.me/pythonnotfound"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> -->
 
+    Hobbies: [
+        'Stamp Collection',
+        'Computer tinkering ',
+        'Coding','Gaming'
+        ],
+            
+    Bio: {
+        School: "KV CRPF",
+        Level: "Level 16 on Earth",
+        SpawnedIn: "India",
+        Height: "170cm"
+    }
+} 
+```
+
+## ⚡ Technologies 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
+</br>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+</br>
+
+## 💻 Workspace
+<img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </br> <img src="https://img.shields.io/badge/NVIDIA-GT710-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> </br>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
