@@ -50,3 +50,9 @@ Bharath = {
 ## 💻 Workspace
 <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </br> <img src="https://img.shields.io/badge/NVIDIA-GT710-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> </br>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+
+## My GitHub Status
+
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&langs_count=8)](https://github.com/bharath1910/github-readme-stats)
