@@ -28,9 +28,9 @@ Bharath = {
             
     Bio: {
         School: "KV CRPF",
-        Level: "Level 16 on Earth",
+        Age: "Level 16 on Earth",
         SpawnedIn: "India",
-        Height: "170cm"
+        SpawnedOn: "19.10.2004" #DD/MM/YYYY
     }
 } 
 ```
