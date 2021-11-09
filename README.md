@@ -3,10 +3,7 @@
 
 <img align="right" src="https://i.imgur.com/fctUQ5N.png" width="230"> </br>
 
-**Currently Exploring** - 
-Machine Learning with scikit-learn
-
-**Explorer of -**
+**Hit me up on,**
 
 <a href="https://telegram.me/pythonnotfound"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
