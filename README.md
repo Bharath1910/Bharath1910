@@ -3,7 +3,7 @@
 
 <img align="right" src="https://i.imgur.com/fctUQ5N.png" width="230"> </br>
 
-**Hit me up on,**
+**Socials,**
 
 <a href="https://telegram.me/pythonnotfound"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -51,6 +51,4 @@ Bharath = {
 
 ## My GitHub Status
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&langs_count=8)](https://github.com/bharath1910/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&langs_count=8)](https://github.com/bharath1910/github-readme-stats) ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=radical) 
