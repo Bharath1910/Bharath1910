@@ -18,16 +18,17 @@ Bharath = {
     Pronouns: "He" | "him",
 
     Hobbies: [
+        'pythonista','Self Hosting',
+        'Astronomy', 'Gaming',
         'Stamp Collection',
-        'Computer tinkering ',
-        'Coding','Gaming'
+        'Computer tinkering'
         ],
             
     Bio: {
         School: "KV CRPF",
-        Age: "Level 16 on Earth",
+        Age: "Level 17 on Earth",
         SpawnedIn: "India",
-        SpawnedOn: "19.10.2004" #DD/MM/YYYY
+        SpawnedOn: "19.10.2004"
     }
 } 
 ```
