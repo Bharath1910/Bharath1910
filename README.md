@@ -1,4 +1,4 @@
-
+# UNDER CONSTRUCTION ;)
 <p align="center"><img src="./images/me_edi1.png"></p>
 <!-- <h1 align="center"> Hello, I am A.V.Bharath Shanmugam <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="40"> </h1> -->
 
@@ -7,6 +7,7 @@
     <img src="./images/twitter.svg" width=50 alt="twitter-svg"><a href="http://" target="_blank"></a></img>
     <img src="./images/linkedin.svg" width=50 alt="linkedin-svg"><a href="http://" target="_blank"></a></img>
 </p>
+
 <!-- testing tables in github -->
 <table>
     <tr>
