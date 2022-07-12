@@ -54,7 +54,7 @@
 ---
 ## My GitHub Status
 
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" height=170>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark" height=170>
 </p>
