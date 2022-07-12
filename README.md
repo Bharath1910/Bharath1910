@@ -1,29 +1,17 @@
 # UNDER CONSTRUCTION ;)
 <p align="center"><img src="./images/me_edi1.png"></p>
-<!-- <h1 align="center"> Hello, I am A.V.Bharath Shanmugam <img src="https://media.giphy.com/media/RMNuCYYKbWu4SisSBA/giphy.gif" width="40"> </h1> -->
 
-<p align="center">
-    <img src="./images/telegram.svg" width=50 alt="telegram-svg"><a href="http://" target="_blank"></a></img>
-    <img src="./images/twitter.svg" width=50 alt="twitter-svg"><a href="http://" target="_blank"></a></img>
-    <img src="./images/linkedin.svg" width=50 alt="linkedin-svg"><a href="http://" target="_blank"></a></img>
-</p>
-
-<!-- testing tables in github -->
-<table>
+<table align=center>
     <tr>
-        <td>Hello</td>
-        <td>World</td>
+        <td><img src="./images/telegram.svg" width=50 alt="telegram-svg"><a href="http://" target="_blank"></a></img></td>
+        <td><img src="./images/twitter.svg" width=50 alt="twitter-svg"><a href="http://" target="_blank"></a></img></td>
+        <td><img src="./images/linkedin.svg" width=50 alt="linkedin-svg"><a href="http://" target="_blank"></a></img></td>
     </tr>
 </table>
-<!-- <p align="center">
-    <a href="https://telegram.me/pythonnotfound"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/14859135/bharath"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://twitter.com/Bharath66373344"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p> -->
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </h1>
 
 ```py
 {
@@ -44,6 +32,24 @@
 ```
 
 ## ⚡ Proficient in
+
+<table>
+    <tr>
+        <td><img src="./images/html.svg" width=50 alt=""></td>
+        <td><img src="./images/css.svg" width=50 alt=""></td>
+        <td><img src="./images/js.svg" width=50 alt=""></td>
+        <td><img src="./images/python.svg" width=50 alt=""></td>
+        <td><img src="./images/bash.svg" width=50 alt=""></td>
+        <td><img src="./images/docker.svg" width=50 alt=""></td>
+    </tr>
+    <tr>
+        <td><img src="./images/mariadb.svg" width=50 alt=""></td>
+        <td><img src="./images/mysql.svg" width=50 alt=""></td>
+        <td><img src="./images/markdown.svg" width=50 alt=""></td>
+        <td><img src="./images/raspberry-pi.svg" width=50 alt=""></td>
+        <td><img src="./images/selenium.svg" width=50 alt=""></td>
+    </tr>
+</table>
 
 <!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
