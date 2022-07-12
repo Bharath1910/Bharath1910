@@ -2,13 +2,23 @@
 
 <table align=center>
     <tr>
-        <td><img src="./images/telegram.svg" width=50 alt="telegram-svg"><a href="http://" target="_blank"></a></img></td>
-        <td><img src="./images/twitter.svg" width=50 alt="twitter-svg"><a href="http://" target="_blank"></a></img></td>
-        <td><img src="./images/linkedin.svg" width=50 alt="linkedin-svg"><a href="http://" target="_blank"></a></img></td>
+        <td>
+            <a href="https://t.me/PythonNotFound" target="_blank">
+                <img src="./images/socials/telegram.svg" width=50 alt="telegram-svg">
+            </a>
+        </td>
+        <td>
+            <a href="https://twitter.com/Bharath66373344" target="_blank">
+                <img src="./images/socials/twitter.svg" width=50 alt="twitter-svg">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/bharath-shanmugam-9b26a9215/" target="_blank">
+                <img src="./images/socials/linkedin.svg" width=50 alt="linkedin-svg">
+            </a>
+        </td>
     </tr>
 </table>
-
----
 
 <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </h1>
 
@@ -39,20 +49,23 @@
 
 <table>
     <tr>
-        <td><img src="./images/html.svg" width=50 alt=""></td>
-        <td><img src="./images/css.svg" width=50 alt=""></td>
-        <td><img src="./images/js.svg" width=50 alt=""></td>
-        <td><img src="./images/python.svg" width=50 alt=""></td>
-        <td><img src="./images/bash.svg" width=50 alt=""></td>
-        <td><img src="./images/docker.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/html.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/css.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/js.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/python.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/bash.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/docker.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/git.svg" width=50 alt=""></td>
     </tr>
     <tr>
-        <td><img src="./images/mariadb.svg" width=50 alt=""></td>
-        <td><img src="./images/mysql.svg" width=50 alt=""></td>
-        <td><img src="./images/markdown.svg" width=50 alt=""></td>
-        <td><img src="./images/raspberry-pi.svg" width=50 alt=""></td>
-        <td><img src="./images/selenium.svg" width=50 alt=""></td>
-        <td><img src="./images/portainer.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/mariadb.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/mysql.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/markdown.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/raspberry-pi.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/selenium.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/portainer.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/mqtt.svg" width=60 alt=""></td>
+    </tr>
     </tr>
 </table>
 
