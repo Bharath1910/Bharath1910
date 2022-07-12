@@ -35,9 +35,7 @@
 
 <h1> ⚡ Skills </h1>
 
-> More skills on the way!!
->
-> **Currently learning:** Fullstack Web Development
+> **Currently learning:** Fullstack Web Development. More skills on the way!!
 
 <table>
     <tr>
@@ -65,6 +63,6 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" height=170> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&layout=compact&theme=github_dark" height=170>
+<img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" height=170 width=50%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&layout=compact&theme=github_dark" height=170 width=50%>
 </p>
 
