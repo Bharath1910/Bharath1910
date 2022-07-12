@@ -48,6 +48,8 @@
         <td><img src="./images/markdown.svg" width=50 alt=""></td>
         <td><img src="./images/raspberry-pi.svg" width=50 alt=""></td>
         <td><img src="./images/selenium.svg" width=50 alt=""></td>
+        <td><img src="./images/portainer.svg" width=50 alt=""></td>
+
     </tr>
 </table>
 
