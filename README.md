@@ -64,7 +64,7 @@
         <td><img src="./images/skills/raspberry-pi.svg" width=50 alt=""></td>
         <td><img src="./images/skills/selenium.svg" width=50 alt=""></td>
         <td><img src="./images/skills/portainer.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/mqtt.svg" width=60 alt=""></td>
+        <td><img src="./images/skills/tailwind.png" width=60 alt=""></td>
     </tr>
     </tr>
 </table>
