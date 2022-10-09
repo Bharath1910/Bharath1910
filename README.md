@@ -47,7 +47,13 @@
 
 > **Currently learning:** Fullstack Web Development. More skills on the way!!
 
-<table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb&perline=8" />
+  </a>
+</p>
+
+<!-- <table>
     <tr>
         <td><img src="./images/skills/html.svg" width=50 alt=""></td>
         <td><img src="./images/skills/css.svg" width=50 alt=""></td>
@@ -56,6 +62,7 @@
         <td><img src="./images/skills/bash.svg" width=50 alt=""></td>
         <td><img src="./images/skills/docker.svg" width=50 alt=""></td>
         <td><img src="./images/skills/git.svg" width=50 alt=""></td>
+        <td><img src="./images/skills/react.png" width=50 alt=""></td>
     </tr>
     <tr>
         <td><img src="./images/skills/mariadb.svg" width=50 alt=""></td>
@@ -65,9 +72,10 @@
         <td><img src="./images/skills/selenium.svg" width=50 alt=""></td>
         <td><img src="./images/skills/portainer.svg" width=50 alt=""></td>
         <td><img src="./images/skills/tailwind.png" width=60 alt=""></td>
+        <td><img src="./images/skills/bootstrap.png" width=50 alt=""></td>
     </tr>
     </tr>
-</table>
+</table> -->
 
 <br>
 <br>
