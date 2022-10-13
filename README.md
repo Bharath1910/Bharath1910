@@ -76,6 +76,9 @@
     </tr>
     </tr>
 </table> -->
+<h1>📕 Latest Blog Posts</h1>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 <br>
