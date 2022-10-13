@@ -78,6 +78,11 @@
 </table> -->
 <h1>📕 Latest Blog Posts</h1>
 <!-- BLOG-POST-LIST:START -->
+- [Cargo Trains and JavaScript, Intro to arrays in JS](https://blog.bharathshanmugam.dev/arrays-in-js)
+- [Git basics to get started](https://blog.bharathshanmugam.dev/git-basics-to-get-started)
+- [Markdown for the people in a hurry](https://blog.bharathshanmugam.dev/markdown-for-the-people-in-a-hurry)
+- [File Handling in Python](https://blog.bharathshanmugam.dev/file-handling-in-python)
+- [CSS Selectors](https://blog.bharathshanmugam.dev/css-selectors)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
