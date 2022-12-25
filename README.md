@@ -91,8 +91,9 @@
 <br>
 
 <h1>🤓 Github Stats<h1/>
-
-
+    
+![Trophy](https://github-profile-trophy.vercel.app/?username=bharath1910&theme=onestar&column=7&margin-w=10)
+    
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" height=170 width=50%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&layout=compact&theme=github_dark" height=170 width=50%>
 </p>
