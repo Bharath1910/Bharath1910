@@ -45,11 +45,11 @@
 
 <h1> ⚡ Skills </h1>
 
-> **Currently learning:** Fullstack Web Development. More skills on the way!!
+> **Currently learning:** Backend development
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,react,cloudflare,appwrite&perline=8" />
   </a>
 </p>
 
