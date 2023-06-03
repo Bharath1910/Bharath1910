@@ -33,7 +33,7 @@
         ],
             
     Bio: {
-        Age: "Level 17 on Earth",
+        Age: "Level 18 on Earth",
         SpawnedIn: "India",
         SpawnedOn: "19.10.2004"
     }
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,cloudflare,appwrite,express,vercel,latex,firebase&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,cloudflare,appwrite,express,vercel,latex,firebase,githubactions,nginx,sqlite,&perline=10" />
   </a>
 </p>
 
