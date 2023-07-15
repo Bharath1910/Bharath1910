@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,cloudflare,appwrite,express,vercel,latex,firebase,githubactions,nginx,sqlite,&perline=14" width='100%'/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,cloudflare,appwrite,express,vercel,latex,firebase,githubactions,nginx,sqlite,redis&perline=14" width='100%'/>
   </a>
 </p>
 
@@ -70,8 +70,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bharath1910&theme=onestar&column=6&margin-w=15&title=Stars,Followers,Commit,Repositories,PullRequest,Issues" width="100%">
 
 <img src="https://streak-stats.demolab.com?user=bharath1910&theme=github-dark-blue" width="60%">
-<img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" width="60%">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&theme=github_dark" width="60%">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bharath1910&layout=compact&theme=github_dark" width="60%">
+<img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" width="60%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&theme=github_dark&layout=donut" width="60%">
