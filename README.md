@@ -49,34 +49,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,cloudflare,appwrite,express,vercel,latex,firebase,githubactions,nginx,sqlite,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,bootstrap,tailwind,markdown,git,bash,py,docker,raspberrypi,selenium,mysql,mongodb,flask,go,linux,nextjs,postgres,cloudflare,appwrite,express,vercel,latex,firebase,githubactions,nginx,sqlite,&perline=6" width='100%'/>
   </a>
 </p>
-
-<!-- <table>
-    <tr>
-        <td><img src="./images/skills/html.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/css.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/js.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/python.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/bash.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/docker.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/git.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/react.png" width=50 alt=""></td>
-    </tr>
-    <tr>
-        <td><img src="./images/skills/mariadb.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/mysql.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/markdown.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/raspberry-pi.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/selenium.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/portainer.svg" width=50 alt=""></td>
-        <td><img src="./images/skills/tailwind.png" width=60 alt=""></td>
-        <td><img src="./images/skills/bootstrap.png" width=50 alt=""></td>
-    </tr>
-    </tr>
-</table> -->
-
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -92,10 +67,12 @@
 
 <h1>🤓 Github Stats<h1/>
     
-![Trophy](https://github-profile-trophy.vercel.app/?username=bharath1910&theme=onestar&column=7&margin-w=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=bharath1910&theme=onestar&column=6&margin-w=15&title=Stars,Followers,Commit,Repositories,PullRequest,Issues)
     
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" height=170 width=50%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&layout=compact&theme=github_dark" height=170 width=50%>
-</p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=bharath1910&theme=github-dark-blue)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=bharath1910&show_icons=true&theme=github_dark" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath1910&theme=github_dark" width="100%">
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bharath1910&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
