@@ -45,7 +45,7 @@
 
 <h1> ⚡ Skills </h1>
 
-> **Currently learning:** Backend development
+> **Currently learning:**
 
 <p align="center">
   <a href="https://skillicons.dev">
