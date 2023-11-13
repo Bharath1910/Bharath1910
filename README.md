@@ -22,20 +22,17 @@
 
 <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </h1>
 
-```py
+```json
 {
-    Pronouns: "He" | "him",
-
-    Hobbies: [
-        'Pythonista','Web Development',
-        'Self Hosting','Astronomy',
-        'Stamp Collection','Computer tinkering'
+    "Hobbies": [
+        "Pythonista","Backend development",
+        "Self Hosting","Anime"
         ],
             
-    Bio: {
-        Age: "Level 18 on Earth",
-        SpawnedIn: "India",
-        SpawnedOn: "19.10.2004"
+    "Bio": {
+        "Age": "Level 19 on Earth",
+        "SpawnedIn": "India",
+        "SpawnedOn": "19.10.2004"
     }
 } 
 ```
