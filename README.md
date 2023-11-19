@@ -15,7 +15,7 @@ prisma, Go, GitHub actions
 3. [File handling in python](https://bharath1910.hashnode.dev/file-handling-in-python)
 
 ## Projects I am proud of
-1. [Authrex, an authentication as a service platform powered by express js]()
+1. [Authrex, an authentication as a service platform powered by express js](https://github.com/Bharath1910/authrex-node)
 
 <br>
 
