@@ -1,9 +1,13 @@
 # Heya, I am Bharath!
 
-A backend developer who loves to build API's and work with databases. I also like automate boing stuffs with python
+A backend developer who loves to build API's and work with databases. <br>
+I also like automate boing stuffs with python
 
 ## Things I know
-NodeJS, ExpressJS, Python, Python Flask, PostgreSQL, Docker, Bash, Linux, Git, Cloudflare, Nginx, Redis, Jest, prisma, Go, GitHub actions
+NodeJS, ExpressJS, Python, Python Flask, <br>
+PostgreSQL, Docker, Bash, Linux, Git, <br>
+Cloudflare, Nginx, Redis, Jest, <br>
+prisma, Go, GitHub actions
 
 ## Things I wrote
 1. [Markdown for people in a hurry](https://bharath1910.hashnode.dev/markdown-for-the-people-in-a-hurry)
