@@ -13,7 +13,6 @@ NodeJS, ExpressJS, Python, Python Flask, PostgreSQL, Docker, Bash, Linux, Git, C
 ## Projects I am proud of
 1. [Authrex, an authentication as a service platform powered by express js]()
 
----
 <br>
 
 
