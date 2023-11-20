@@ -18,6 +18,7 @@ prisma, Go, GitHub actions
 1. [Authrex, an authentication as a service platform powered by express js](https://github.com/Bharath1910/authrex-node)
 
 <br>
+<br>
+<br>
 
-
-> Like to work on a project together? Feel free to mail me at [av.bharath@proton.me](mailto:av.bharath@proton.me)
+Like to work on a project together? Feel free to mail me at [av.bharath@proton.me](mailto:av.bharath@proton.me)
