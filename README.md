@@ -4,7 +4,7 @@ A backend developer who loves to build API's and work with databases. <br>
 I also like automate boing stuffs with python
 
 ## Things I know
-NodeJS, ExpressJS, Python, Python Flask, <br>
+TypeScript, NodeJS, ExpressJS, Python, Python Flask, <br>
 PostgreSQL, Docker, Bash, Linux, Git, <br>
 Cloudflare, Nginx, Redis, Jest, <br>
 prisma, Go, GitHub actions
