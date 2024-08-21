@@ -1,7 +1,7 @@
 # Heya, I am Bharath!
 
 A backend developer who loves to build API's and work with databases. <br>
-I also like automate boing stuffs with python
+I also like automate boring stuffs with python
 
 ## Things I know
 TypeScript, NodeJS, ExpressJS, Python, Python Flask, <br>
